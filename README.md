@@ -1,1 +1,2 @@
-# flappy-tergel
+# flappybird
+This is my first project on github
